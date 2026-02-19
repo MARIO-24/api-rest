@@ -2,8 +2,7 @@
 
 ## Autor
 Nombre: Mario Sánchez Rufino  
-Número de alumno: XXXXX  
-GitHub: https://github.com/tuusuario
+GitHub: https://github.com/MARIO-24
 
 ## Descripción
 API REST desarrollada con FastAPI para la gestión de clientes de un gimnasio.
